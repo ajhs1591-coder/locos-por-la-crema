@@ -1,1 +1,14 @@
-
+export const productos = [
+  {
+    id: 1,
+    nombre: "Crema de Vainilla Real",
+    precio: 15.50,
+    imagen: "vainilla.jpg"
+  },
+  {
+    id: 2,
+    nombre: "Mousse de Chocolate Intenso",
+    precio: 18.00,
+    imagen: "chocolate.jpg"
+  }
+];
